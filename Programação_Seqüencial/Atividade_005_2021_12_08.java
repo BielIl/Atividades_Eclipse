@@ -10,7 +10,7 @@ public class Atividade_005_2021_12_08 {
 				
 			double nota1, nota2, nota3, media;
 			
-			System.out.println("Difite o valor da primeira nota? ");
+			System.out.println("Digite o valor da primeira nota? ");
 			nota1 = scanner.nextDouble();
 			
 			System.out.println("Digite o valor da segunda nota? ");
