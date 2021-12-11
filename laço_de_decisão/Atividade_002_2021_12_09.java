@@ -17,7 +17,7 @@ public class Atividade_002_2021_12_09 {
 			x2 = scanner.nextDouble();
 		
 		System.out.println("Digite o terceiro? ");
-			x3 = scanner.nextDouble();
+			x3 = scanner.nextDouble(); 
 			
 		System.out.print("A ordem crecente é ");
 			for (int x = 2; x >= 0; x--) {
@@ -35,7 +35,6 @@ public class Atividade_002_2021_12_09 {
 					x3 = x3 * 1000;
 			}
 		}
-		
 		scanner.close();
 	}
 }
